@@ -4,5 +4,8 @@
  * This will act as the driver, or main, class that will run the remaining code.
  */
 public class Driver {
-  int foo;
+
+  public static void main(String[] args) {
+
+  }
 }
